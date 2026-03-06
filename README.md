@@ -1,6 +1,6 @@
 # Writing Rules for Mock Pharma Dataset Guides
 
-*A revised set of principles designed to avoid common AI writing patterns.*
+*Most people treat mock data as a placeholder - just enough rows to make the SAS code run without red text in the log. That is a mistake. Mock data isn't there to prove your code works on perfect inputs; it's there to prove your code handles the garbage that real life throws at clinical trials. If your mock data is clean, your production run will fail.*
 
 ## Introduction
 
